@@ -10,8 +10,14 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         dowork();
+        goodwork();
     }
 
+
     private void dowork() {
+    }
+    private void goodwork() {
+        System.out.println("hello world");
+
     }
 }
