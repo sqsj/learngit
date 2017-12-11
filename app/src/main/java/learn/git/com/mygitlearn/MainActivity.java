@@ -18,6 +18,6 @@ public class MainActivity extends AppCompatActivity {
     }
     private void goodwork() {
         System.out.println("hello world");
-
+        System.out.println("we are zhangsan");
     }
 }
