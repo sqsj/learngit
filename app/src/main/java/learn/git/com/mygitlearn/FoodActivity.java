@@ -1,9 +1,9 @@
 package learn.git.com.mygitlearn;
 
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
 
-public class MainActivity extends AppCompatActivity {
+public class FoodActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -19,6 +19,5 @@ public class MainActivity extends AppCompatActivity {
     private void goodwork() {
         System.out.println("hello world");
         System.out.println("zhaoliu");
-        System.out.println("we are zhangsan");
     }
 }
